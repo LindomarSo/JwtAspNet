@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAspNet", "JwtAspNet.Api\JwtAspNet.csproj", "{67558C79-0D31-422C-97E9-31FD0BD85116}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAspNet", "JwtAspNet\JwtAspNet.csproj", "{472058A3-FA49-4DEE-A7BF-5DBABF39A5A5}"
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
@@ -18,17 +18,17 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{67558C79-0D31-422C-97E9-31FD0BD85116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{67558C79-0D31-422C-97E9-31FD0BD85116}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{67558C79-0D31-422C-97E9-31FD0BD85116}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{67558C79-0D31-422C-97E9-31FD0BD85116}.Debug|x64.Build.0 = Debug|Any CPU
-		{67558C79-0D31-422C-97E9-31FD0BD85116}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{67558C79-0D31-422C-97E9-31FD0BD85116}.Debug|x86.Build.0 = Debug|Any CPU
-		{67558C79-0D31-422C-97E9-31FD0BD85116}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{67558C79-0D31-422C-97E9-31FD0BD85116}.Release|Any CPU.Build.0 = Release|Any CPU
-		{67558C79-0D31-422C-97E9-31FD0BD85116}.Release|x64.ActiveCfg = Release|Any CPU
-		{67558C79-0D31-422C-97E9-31FD0BD85116}.Release|x64.Build.0 = Release|Any CPU
-		{67558C79-0D31-422C-97E9-31FD0BD85116}.Release|x86.ActiveCfg = Release|Any CPU
-		{67558C79-0D31-422C-97E9-31FD0BD85116}.Release|x86.Build.0 = Release|Any CPU
+		{472058A3-FA49-4DEE-A7BF-5DBABF39A5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472058A3-FA49-4DEE-A7BF-5DBABF39A5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472058A3-FA49-4DEE-A7BF-5DBABF39A5A5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{472058A3-FA49-4DEE-A7BF-5DBABF39A5A5}.Debug|x64.Build.0 = Debug|Any CPU
+		{472058A3-FA49-4DEE-A7BF-5DBABF39A5A5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{472058A3-FA49-4DEE-A7BF-5DBABF39A5A5}.Debug|x86.Build.0 = Debug|Any CPU
+		{472058A3-FA49-4DEE-A7BF-5DBABF39A5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472058A3-FA49-4DEE-A7BF-5DBABF39A5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{472058A3-FA49-4DEE-A7BF-5DBABF39A5A5}.Release|x64.ActiveCfg = Release|Any CPU
+		{472058A3-FA49-4DEE-A7BF-5DBABF39A5A5}.Release|x64.Build.0 = Release|Any CPU
+		{472058A3-FA49-4DEE-A7BF-5DBABF39A5A5}.Release|x86.ActiveCfg = Release|Any CPU
+		{472058A3-FA49-4DEE-A7BF-5DBABF39A5A5}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

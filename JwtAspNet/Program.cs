@@ -37,7 +37,7 @@ app.UseAuthorization();
 
 app.MapGet("/login", (TokenService service) =>
 {
-    return service.Create(new User(1, "Lindomar Dias", "lindomardias@wiz.co", "xyz", "https://google.com/me", new[] { "Admin", "Student" }));
+    return service.Create(new User(1, "Teste", "lindomar@teste.com", "xyz", "https://google.com/me", new[] { "Admin", "Student" }));
 });
 
 app.Map("/restrito", (ClaimsPrincipal user) =>
